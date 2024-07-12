@@ -1,12 +1,14 @@
-...Updating...
+Hello, I’m Yacine (she/her). 
 
-- 👋 Hi, I’m Yacine. I speak English and French.
-- 👀 I hold a M.A. in economics and I'm interested in behavioral science, labor economics, data science and macroeconomics.
-- 🌱 I’m currently working as a Research Assistant at McGill University in the Departement of Epidemiology, Biostatistics and Global Health.
-- 💞️ I’m looking to expend my knowledge in data science.
-- 📫 How to reach me LinkedIn (Yacine Lapointe)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+I speak English and French.
+
+I hold a M.A. in economics and I'm interested in behavioral science, labor economics and data science.
+I’m currently working as a Research Assistant at McGill University in the Departement of Epidemiology, Biostatistics and Global Health. I prepare and analyze wearables data, consumer transactions data, and geospatial mobility data.
+
+I am proficient in R and Python programming languages, Latex, and looking to expand my skills in Markdown and SQL.
+
+Feel free to reach me on LinkedIn (@Yacine Lapointe)!
+
 
 <!---
 yacinelapointe/yacinelapointe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
