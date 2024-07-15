@@ -2,7 +2,7 @@ Hello, I’m Yacine (she/her).
 
 I speak English and French.
 
-I hold a M.A. in economics and I'm interested in behavioral science, labor economics and data science.
+I hold a M.A. in economics and I'm interested in behavioral science, labor economics and firm dynamics.
 I’m currently working as a Research Assistant at McGill University in the Departement of Epidemiology, Biostatistics and Global Health. I prepare and analyze wearables data, consumer transactions data, and geospatial mobility data.
 
 I am proficient in R and Python programming languages, Latex, and looking to expand my skills in Markdown and SQL.
